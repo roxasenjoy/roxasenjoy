@@ -1,5 +1,24 @@
-# 💫 About Me:
-I'm Andrew MAHÉ a freelance Web Developer passionate about software engineering, technology, and continuous learning.<br><br>I build tailor-made digital products using the right tools for each project:<br><br>Symfony on the backend for scalable, secure, and maintainable applications<br><br>Angular or WordPress on the frontend depending on the needs and user experience<br><br>I love the balance between hands-on development and knowledge sharing — that’s why I also work as a trainer and speaker, helping professionals grow their skills and stay confident with modern tools.<br><br>🎯 I’ve worked on a wide range of projects, such as:<br><br>Simple business showcase websites<br><br>Custom WordPress plugins<br><br>Full-stack Symfony platforms with APIs, dashboards and automation<br><br>I collaborate with startups, SMEs, agencies and education organizations, always with the same goal:<br>➡️ Delivering solutions that truly serve the business needs.<br><br>📩 Always open to new projects, collaboration, and tech discussions!
+# 👋 Hi, I'm Andrew Mahé
+
+**Freelance Web Developer** passionate about software engineering, modern technologies, and continuous learning.
+
+I design and build **tailored digital products** using the right tools for each project:
+
+- **Symfony** for secure, scalable and maintainable backends  
+- **Angular** or **WordPress** for user-focused frontends
+
+I also work as a **trainer** and **speaker**, because I love sharing knowledge and helping professionals grow their skills with confidence.
+
+### 🚀 What I do
+- Business showcase websites  
+- Custom WordPress plugins  
+- Full-stack Symfony platforms (APIs, dashboards, automation)
+
+I work with **startups, SMEs, agencies and education organizations** — always with the same goal:  
+**delivering solutions that create real business value**.
+
+📬 Open to new projects, collaborations and tech discussions!
+
 
 
 ## 🌐 Socials:
