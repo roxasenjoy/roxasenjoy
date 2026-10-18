@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/andrew-mahe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Mah%C3%A9-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:andrew.mahe.dev@gmail.com">
+  <a href="mailto:andrew.mahe14@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
